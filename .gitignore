@@ -1,0 +1,9 @@
+.vscode
+.idea
+out/
+build/
+dist/
+__pycache__/
+*~
+.*~
+
